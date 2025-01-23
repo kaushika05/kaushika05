@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I'm a **rising junior** at **West Virginia Univers
 
 ## 🌐 What I Do:
 - 🛠️ **Solo Developer** of the **TravelLanka** app – a one-stop guide for visitors exploring the beauty of **Sri Lanka** 🇱🇰.
-- 💻 **Active Contributor** to one of the **largest open-source databases** for technical interview questions.
 - 🔥 **Lead Engineer** on a miniature missile defense system.
 - 🚀 Passionate about all things tech, with **Java** and **Python** as my main tools of choice (but I dabble in many languages and frameworks).
 
